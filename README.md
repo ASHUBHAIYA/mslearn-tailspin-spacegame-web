@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DEVOPS-LEARNING-ABHI/Angular%20App/_apis/build/status/ASHUBHAIYA.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/DEVOPS-LEARNING-ABHI/Angular%20App/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
